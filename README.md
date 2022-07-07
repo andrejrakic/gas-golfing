@@ -58,6 +58,10 @@ This entire transaction fee would go to miners for including your transaction in
 - **Gas Limit** - stays the same, which is the max units of gas a sender is willing to use for that transaction. However, blocks themselves also have an overall gas limit - limit for the total gas that can be spent on the transactions contained within a block.
 - **Gas Cost** - also stays the same, which is the amount of gas used by the transaction.
 
+```
+Transaction Fee = (Base Fee + Max Priority fee) x Gas cost
+```
+
 ## Solcurity
 
 The most important url of all (https://github.com/Rari-Capital/solcurity)
