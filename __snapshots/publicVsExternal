@@ -1,0 +1,14 @@
+--------------------------------
+WITHOUT OPTIMIZER
+
+PublicVsExternalTest:testExternal() (gas: 10794)
+PublicVsExternalTest:testPublic() (gas: 10815)
+PublicVsExternalTest:testYul() (gas: 13135)
+
+
+--------------------------------
+WITH OPTIMIZER
+
+PublicVsExternalTest:testExternal() (gas: 10671)
+PublicVsExternalTest:testPublic() (gas: 10692)
+PublicVsExternalTest:testYul() (gas: 12368)

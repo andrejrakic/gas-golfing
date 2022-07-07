@@ -1,0 +1,22 @@
+--------------------------------
+WITHOUT OPTIMIZER
+
+LooperTest:testLoop5() (gas: 277137)
+LooperTest:testLoop6() (gas: 277223)
+LooperTest:testLoop4() (gas: 277658)
+LooperTest:testLoop7() (gas: 277805)
+LooperTest:testLoop3() (gas: 289202)
+LooperTest:testLoop2() (gas: 289658)
+LooperTest:testLoop1() (gas: 290423)
+
+
+--------------------------------
+WITH OPTIMIZER
+
+LooperTest:testLoop7() (gas: 236700)
+LooperTest:testLoop5() (gas: 236935)
+LooperTest:testLoop4() (gas: 236956)
+LooperTest:testLoop6() (gas: 237021)
+LooperTest:testLoop3() (gas: 243300)
+LooperTest:testLoop1() (gas: 243729)
+LooperTest:testLoop2() (gas: 243756)

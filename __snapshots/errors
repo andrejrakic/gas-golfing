@@ -1,0 +1,14 @@
+--------------------------------
+WITHOUT OPTIMIZER
+
+ErrorsTest:testCustomError() (gas: 10246)
+ErrorsTest:testStringUnder32() (gas: 10266)
+ErrorsTest:testStringOver32() (gas: 10287)
+
+
+--------------------------------
+WITH OPTIMIZER
+
+ErrorsTest:testCustomError() (gas: 9696)
+ErrorsTest:testStringUnder32() (gas: 9705)
+ErrorsTest:testStringOver32() (gas: 9737)

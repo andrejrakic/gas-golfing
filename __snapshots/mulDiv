@@ -1,0 +1,20 @@
+--------------------------------
+WITHOUT OPTIMIZER
+
+MulDivTest:testBitwiseDivideByFour() (gas: 7796)
+MulDivTest:testBitwiseMultiplyByEight() (gas: 7817)
+MulDivTest:testBitwiseDivideByTwo() (gas: 7906)
+MulDivTest:testDivideByTwo() (gas: 7923)
+MulDivTest:testDivideByFour() (gas: 8010)
+MulDivTest:testMultiplyByEight() (gas: 8084)
+
+
+--------------------------------
+WITH OPTIMIZER
+
+MulDivTest:testBitwiseDivideByFour() (gas: 7498)
+MulDivTest:testBitwiseMultiplyByEight() (gas: 7519)
+MulDivTest:testDivideByTwo() (gas: 7533)
+MulDivTest:testBitwiseDivideByTwo() (gas: 7608)
+MulDivTest:testDivideByFour() (gas: 7620)
+MulDivTest:testMultiplyByEight() (gas: 7694)

@@ -1,0 +1,12 @@
+--------------------------------
+WITHOUT OPTIMIZER
+
+IsEvenTest:testIsEvenB() (gas: 7676)
+IsEvenTest:testIsEvenA() (gas: 7916)
+
+
+--------------------------------
+WITH OPTIMIZER
+
+IsEvenTest:testIsEvenB() (gas: 6465)
+IsEvenTest:testIsEvenA() (gas: 6496)

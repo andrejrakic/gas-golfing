@@ -1,0 +1,16 @@
+--------------------------------
+WITHOUT OPTIMIZER
+
+FunctionNamesTest:test1() (gas: 5309)
+FunctionNamesTest:test5() (gas: 5377)
+FunctionNamesTest:test6() (gas: 5397)
+FunctionNamesTest:test0() (gas: 7779)
+
+
+--------------------------------
+WITH OPTIMIZER
+
+FunctionNamesTest:test1() (gas: 5309)
+FunctionNamesTest:test5() (gas: 5377)
+FunctionNamesTest:test6() (gas: 5397)
+FunctionNamesTest:test0() (gas: 7495)

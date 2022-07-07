@@ -1,0 +1,16 @@
+--------------------------------
+WITHOUT OPTIMIZER
+
+ZeroNonZeroTest:testChangeNonZero() (gas: 5522)
+ZeroNonZeroTest:testChangeNonZeroYul() (gas: 5624)
+ZeroNonZeroTest:testChangeZeroYul() (gas: 27414)
+ZeroNonZeroTest:testChangeZero() (gas: 27423)
+
+
+--------------------------------
+WITH OPTIMIZER
+
+ZeroNonZeroTest:testChangeNonZero() (gas: 5526)
+ZeroNonZeroTest:testChangeNonZeroYul() (gas: 5636)
+ZeroNonZeroTest:testChangeZeroYul() (gas: 27426)
+ZeroNonZeroTest:testChangeZero() (gas: 27427)

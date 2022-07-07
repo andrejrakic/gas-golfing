@@ -1,0 +1,20 @@
+--------------------------------
+WITHOUT OPTIMIZER
+
+IncrementTest:testInc5() (gas: 10317)
+IncrementTest:testInc6() (gas: 10452)
+IncrementTest:testInc3() (gas: 10510)
+IncrementTest:testInc4() (gas: 10525)
+IncrementTest:testInc1() (gas: 10603)
+IncrementTest:testInc2() (gas: 10618)
+
+
+--------------------------------
+WITH OPTIMIZER
+
+IncrementTest:testInc5() (gas: 10313)
+IncrementTest:testInc3() (gas: 10463)
+IncrementTest:testInc6() (gas: 10464)
+IncrementTest:testInc4() (gas: 10479)
+IncrementTest:testInc1() (gas: 10495)
+IncrementTest:testInc2() (gas: 10516)

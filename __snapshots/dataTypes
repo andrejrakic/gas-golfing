@@ -1,0 +1,12 @@
+--------------------------------
+WITHOUT OPTIMIZER
+
+DataTypesTest:testPowerA() (gas: 7783)
+DataTypesTest:testPowerB() (gas: 7976)
+
+
+--------------------------------
+WITH OPTIMIZER
+
+DataTypesTest:testPowerA() (gas: 7686)
+DataTypesTest:testPowerB() (gas: 7838)
